@@ -2,7 +2,7 @@ package BINARY_TREE;
 
 public interface PriorityQueueInterface<E> {
 
-    boolean add(E x);
+        boolean add(E x);
 
     E remove();
 
