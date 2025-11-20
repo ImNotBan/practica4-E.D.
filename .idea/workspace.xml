@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a19329a-25cd-4256-906a-fc7b734ca7a1" name="Changes" comment="Interficie ben feta">
-      <change beforePath="$PROJECT_DIR$/../practica4-E.D/src/BINARY_TREE/PriorityQueueInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practica4-E.D/src/BINARY_TREE/PriorityQueueInterface.java" afterDir="false" />
+    <list default="true" id="1a19329a-25cd-4256-906a-fc7b734ca7a1" name="Changes" comment="Prova">
+      <change beforePath="$PROJECT_DIR$/../practica4-E.D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practica4-E.D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practica4-E.D/src/BINARY_TREE/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practica4-E.D/src/BINARY_TREE/Documento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,9 @@
     &quot;accountId&quot;: &quot;d8de4601-b7e1-4a98-84cc-9178f2283824&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -80,7 +84,7 @@
       <updated>1763485019507</updated>
       <workItem from="1763485020880" duration="303000" />
       <workItem from="1763561195416" duration="70000" />
-      <workItem from="1763655344628" duration="629000" />
+      <workItem from="1763655344628" duration="2061000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -106,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763655952612</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Prova">
+      <option name="closed" value="true" />
+      <created>1763656168036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763656168036</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +128,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Canvi a documento.java" />
     <MESSAGE value="Interficie ben feta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interficie ben feta" />
+    <MESSAGE value="Prova" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prova" />
   </component>
 </project>
