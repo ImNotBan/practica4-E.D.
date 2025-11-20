@@ -1,4 +1,4 @@
 package BINARY_TREE;
 
-public int Documento {
+public class Documento {
 }
