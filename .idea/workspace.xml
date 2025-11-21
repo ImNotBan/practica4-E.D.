@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a19329a-25cd-4256-906a-fc7b734ca7a1" name="Changes" comment="Prova">
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_11_2025_10_54_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_11_2025_10_54__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica4.pdf" afterDir="false" />
+    <list default="true" id="1a19329a-25cd-4256-906a-fc7b734ca7a1" name="Changes" comment="Implementacio dues funcions MyPriorityQueue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BINARY_TREE/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BINARY_TREE/MyPriorityQueue.java" afterDir="false" />
     </list>
@@ -37,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ImNotBan/practica4-E.D..git&quot;,
-    &quot;accountId&quot;: &quot;d8de4601-b7e1-4a98-84cc-9178f2283824&quot;
+    &quot;accountId&quot;: &quot;01298400-fba0-4489-baad-a453be256289&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -51,29 +47,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/edmon/Desktop/E.D/LAB/practica4-E.D/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/edmon/Desktop/E.D/LAB/practica4-E.D/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -88,6 +89,11 @@
       <workItem from="1763485020880" duration="303000" />
       <workItem from="1763561195416" duration="70000" />
       <workItem from="1763655344628" duration="2061000" />
+      <workItem from="1763727463343" duration="329000" />
+      <workItem from="1763727803969" duration="201000" />
+      <workItem from="1763728015136" duration="970000" />
+      <workItem from="1763731059643" duration="127000" />
+      <workItem from="1763734961203" duration="1350000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -121,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763656168036</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implementacio dues funcions MyPriorityQueue">
+      <option name="closed" value="true" />
+      <created>1763722332519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763722332519</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +157,7 @@
     <MESSAGE value="Canvi a documento.java" />
     <MESSAGE value="Interficie ben feta" />
     <MESSAGE value="Prova" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prova" />
+    <MESSAGE value="Implementacio dues funcions MyPriorityQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementacio dues funcions MyPriorityQueue" />
   </component>
 </project>
